@@ -18,6 +18,7 @@ def add_colors
 array = [ ]
 array.push "green"
 array.push "blue"
+array
 end
 
 change_rainbow_colors
