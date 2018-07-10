@@ -16,6 +16,7 @@ end
 def add_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 array = [ ]
+array = ["red", "light_red","light_yellow"]
 array.push "green"
 array.push "blue"
 array
